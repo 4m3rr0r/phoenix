@@ -49,7 +49,7 @@ $ ./phoenix.sh -v
 # Show help menu
 $ ./phoenix.sh --help
 
-  hashcracker.sh -v                                   # Show script version
-  hashcracker.sh --help                               # Show help menu
+  phoenix.sh -v                                   # Show script version
+  phoenix.sh --help                               # Show help menu
 
 
